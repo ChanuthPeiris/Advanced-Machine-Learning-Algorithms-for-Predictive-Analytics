@@ -3,7 +3,8 @@
 
 ## System Diagram
  
-   ![Picture1](https://github.com/user-attachments/assets/fcb97ee6-ce52-4b6d-8a90-ed99de2ab9ae)
+![System architecture drawio](https://github.com/user-attachments/assets/2b44101a-ccf2-458b-b755-e9c9b0e32ab7)
+
 
 
 ## Research Problem
